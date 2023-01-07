@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GijeongKim98&show_icons=true&theme=merko)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kkj9818)](https://solved.ac/kkj9818)
 
